@@ -1,0 +1,53 @@
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Python cache files
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# Virtual environments
+# -------------------------
+venv/
+env/
+.venv/
+.env/
+
+# -------------------------
+# Dataset / data files
+# -------------------------
+data/
+datasets/
+*.csv
+*.zip
+*.tar
+*.tar.gz
+
+# -------------------------
+# Model files / checkpoints
+# -------------------------
+models/
+checkpoints/
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# -------------------------
+# Logs
+# -------------------------
+logs/
+*.log
+
+# -------------------------
+# OS / Editor junk
+# -------------------------
+.DS_Store
+Thumbs.db
+.vscode/
